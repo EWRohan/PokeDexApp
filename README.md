@@ -10,7 +10,7 @@ and Also uses data from competetive pokemon websites to suggest Moveset for a Po
 - **Random Pokemon Genrator**: Randomly Generates 6 non repeting species of Pokemon.
 - **Moveset Suggestion**: On the Pokemon Detail Screen, the Pokemon normaly used in Competetive Settings Moveset are Given that you can copy and pasete into Your Pokemon Showdown TeamBuilder.
 - **User-Friendly Interface**: Intuitive and easy-to-navigate design for a seamless experience.
-- **Search Bar**: For Easing the Search of .
+- **Search Bar**: For Easing the Search of Pokemon.
 
 ## Configuration
 The application uses a API for data like images and Moveset data.Ensure you have the necessary permissions and configurations in your AndroidManifest.xml file.
